@@ -29,7 +29,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50"/>
   </a>
 
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+  <a href="https://tryhackme.com/p/gunaseelanC">
   <img src="https://friconix.com/png/fi-snsuxl-tryhackme.png" alt="TryHackMe" width="50" height="50"/>
 </a>
 </p>
