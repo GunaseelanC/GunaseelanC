@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=GUNASEELAN C&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=GUNA&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <h1 align="center">👋 Hi, I'm GUNASEELAN C</h1>
