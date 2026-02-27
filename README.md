@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=YOUR_NAME&fontSize=40&fontColor=ffffff"/>
 </p>
 
-<h1 align="center">👋 Hi, I'm YOUR_NAME</h1>
+<h1 align="center">👋 Hi, I'm GUNASEELAN C</h1>
 <h3 align="center">🔐 Aspiring Penetration Tester | Red Team Enthusiast</h3>
 
 ---
@@ -21,11 +21,11 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINK/">
+  <a href="https://www.linkedin.com/in/gunaseelan-cyber/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50"/>
   </a>
   
-  <a href="https://t.me/YOUR_TELEGRAM_LINK">
+  <a href="https://t.me/+mkyHPXe7bwYwNzM1">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50"/>
   </a>
   
