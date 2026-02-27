@@ -29,9 +29,9 @@
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="50" height="50"/>
   </a>
 
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/YOUR_THM_USERNAME.png" alt="TryHackMe Badge" width="100"/>
-</a>
+<a href="https://tryhackme.com/p/YOUR_THM_USERNAME">
+    <img src="https://logo.svgcdn.com/simple-icons/tryhackme-dark.svg" alt="TryHackMe Logo" width="50" height="50"/>
+  </a>
 </p>
 
 ---
